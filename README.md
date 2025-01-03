@@ -9,7 +9,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=huynwoo122490)](https://solved.ac/huynwoo122490)
 
 #### Blog
-https://lagooneng.tistory.com/
+https://lagooneng.tistory.com
 
 #### Contact
 hyunwoo122490@gmail.com
