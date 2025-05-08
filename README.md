@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B"/> <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/> 
 
 ### Stat
-![Lagooneng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lagooneng&hide=stars,contribs&count_private=true&show_icons=true&&theme=cobalt)
+![Lagooneng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lagooneng&contribs&count_private=true&show_icons=true&&theme=cobalt)
 
 ### BaekJoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=huynwoo122490)](https://solved.ac/huynwoo122490)
