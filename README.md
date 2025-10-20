@@ -1,5 +1,5 @@
 ### Hello
-I'm Lagooneng, Multiplayer Game Developer.
+I'm Lagooneng, Multiplayer Game Developer.  
 My current goal is to build Multiplayer Game Engine.
 
 ### Tech Stack
