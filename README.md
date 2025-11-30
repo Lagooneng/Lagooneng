@@ -10,9 +10,6 @@ My current goal is to build Multiplayer Game Engine.
 - 2024.09 ~ 2025.02 : 단국대학교 개발, 보안 중앙 동아리 Aegis 회장
 - 2025.07 ~ : NEXON Korea 재직 중
 
-### Stat
-![Lagooneng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lagooneng&contribs&count_private=true&show_icons=true&&theme=cobalt)
-
 #### Blog
 https://lagooneng.tistory.com
 
