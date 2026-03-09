@@ -9,7 +9,7 @@ My current goal is to build Multiplayer Game Engine.
 - 2020.03 ~ 2026.02
   - 단국대학교 소프트웨어학과 졸업
   - GPA 4.32 / 4.5
-  - 2 / 73 등
+  - 석차 2 / 73
 - 2024.09 ~ 2025.02
   - 단국대학교 개발, 보안 중앙 동아리 Aegis 회장
 - 2025.07 ~
